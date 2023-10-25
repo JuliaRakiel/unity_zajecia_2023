@@ -355,6 +355,9 @@
 "Assets/Scripts/lab_03/zad2.cs"
 "Assets/Scripts/lab_03/zad3.cs"
 "Assets/Scripts/lab_03/zad4.cs"
+"Assets/Scripts/lab_03/zad5.cs"
+"Assets/Scripts/lab_03/zad6.cs"
+"Assets/Scripts/lab_03/zad6_2.cs"
 -langversion:9.0
 
 /deterministic
